@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/the-cut/static/css/main.8861f534.css",
+    "main.js": "/the-cut/static/js/main.e9740296.js",
+    "index.html": "/the-cut/index.html",
+    "main.8861f534.css.map": "/the-cut/static/css/main.8861f534.css.map",
+    "main.e9740296.js.map": "/the-cut/static/js/main.e9740296.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8861f534.css",
+    "static/js/main.e9740296.js"
+  ]
+}
