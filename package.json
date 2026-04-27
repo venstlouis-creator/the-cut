@@ -16,8 +16,8 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "predeploy": "npm run build && touch build/.nojekyll",
+    "deploy": "gh-pages -d build -t"
   },
   "browserslist": {
     "production": [">0.2%", "not dead", "not op_mini all"],
